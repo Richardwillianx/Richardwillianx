@@ -7,7 +7,7 @@ My name is Richard William and I'm 27 years old...
 - 💌 To contact me: Richardwsp@unigranrio.br
 - ⚡ Fun fact: in pursuit of the dream of being a developer...
 
-<div align="center">
+<div align="">
   <a href="https://github.com/Richardwillianx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richardwillianx&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
     
@@ -16,7 +16,7 @@ My name is Richard William and I'm 27 years old...
 
 ###
   
-<div style="display: inline_block" ><br>
+<div align="center" style="display: inline_block" ><br>
   <img align="center" alt="RW-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RW-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RW-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
