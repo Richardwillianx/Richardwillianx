@@ -1,10 +1,10 @@
 ### Hi there 👋
 ##
-My name is Richard William and I'm 27 years old...
+My name is Richard William and I'm 27 years old.
 
--  :books: I’m currently learning developer Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>....
+-  :books: I’m currently learning developer Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>.
 -  :school: I was in the military for 4 years | Administrative Assistant at GMAP Supermercados | Administrative Assistant at Nísia Vilela Fernandes Municipal School - Duque de Caxias / RJ.
--  :memo:Currently learning Front-End at <a href="https://www.growdev.com.br/starter-2">GrowDev</a>., using HTML, CSS and JavaScript.
+-  :memo:Currently learning Front-End at <a href="https://www.growdev.com.br/starter-2">GrowDev</a>, using HTML, CSS and JavaScript.
 -  :soccer: My favorite pastime is being with friends, playing football and learning.
 - :computer: I’m looking to collaborate on developer Web...
 - 💌 To contact me: Richardwsp@unigranrio.br
