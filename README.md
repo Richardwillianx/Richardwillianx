@@ -2,9 +2,9 @@
 ##
 My name is Richard William and I'm 27 years old...
 
--  :books: I’m currently learning developer Web Full Stack na GrowDev ...
+-  :books: I’m currently learning developer Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>....
 -  :school: I was in the military for 4 years | Administrative Assistant at GMAP Supermercados | Administrative Assistant at Nísia Vilela Fernandes Municipal School - Duque de Caxias / RJ.
--  :memo:Currently learning Front-End at GrowDev, using HTML, CSS and JavaScript.
+-  :memo:Currently learning Front-End at <a href="https://www.growdev.com.br/starter-2">GrowDev</a>., using HTML, CSS and JavaScript.
 -  :soccer: My favorite pastime is being with friends, playing football and learning.
 - :computer: I’m looking to collaborate on developer Web...
 - 💌 To contact me: Richardwsp@unigranrio.br
@@ -20,10 +20,13 @@ My name is Richard William and I'm 27 years old...
 ###
   
 <div align="center" style="display: inline_block" ><br>
+  <img align="center" alt="RW-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="RW-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="RW-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RW-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RW-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="RW-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 
 </div>
   
