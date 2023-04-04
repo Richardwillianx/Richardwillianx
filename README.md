@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##
-My name is Richard William and I'm 27 years old.
+My name is Richard William.
 
 -  :books: I’m currently learning development Web Full Stack na <a href="https://www.growdev.com.br/starter-2">GrowDev</a>.
 -  :school: I was in the military for 4 years | Administrative Assistant at GMAP Supermercados | Administrative Assistant at Nísia Vilela Fernandes Municipal School - Duque de Caxias / RJ.
